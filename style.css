@@ -1,0 +1,61 @@
+* { margin: 0; padding: 0 }
+
+header {
+	overflow: hidden;
+	height: 100vh;
+	background: url(assets/faceshields.jpg) 50%/ cover
+}
+
+h1 {
+	color: white;
+  font-family: 'IBM Plex Sans', sans-serif;
+	background-color: rgba(0,0,0,.5);
+	text-align: center;
+	font-size: 50px;
+}
+
+#box {
+  margin-left: 25vw;
+  width: 50vw;
+}
+
+p {
+  font-family: 'IBM Plex Mono', monospace;
+  color: white;
+  background-color: rgba(0,0,0,.5);
+}
+html, body {
+  margin: 0;
+}
+
+body {
+  background-image: url("assets/face shields.jpg");
+}
+
+h1 {
+  text-align: center;
+  font-family: 'IBM Plex Sans', sans-serif;
+  mix-blend-mode: difference;
+}
+
+#box {
+  margin-left: 25vw;
+  width: 50vw;
+}
+
+p {
+  font-family: 'IBM Plex Mono', monospace;
+  color: white;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  display:block;
+  margin:auto;
+}
+
+footer {
+  color: gray;
+  font-size: 5px;
+}
